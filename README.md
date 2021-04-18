@@ -1,2 +1,6 @@
 # 31-years-unstable-internet
+
 1990-2021
+
+# moore's law
+https://en.wikipedia.org/wiki/Moore%27s_law
